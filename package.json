@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.9.2"
+  },
+  "dependencies": {
+    "@types/blueimp-md5": "^2.18.2",
+    "js-md5": "^0.8.3"
+  }
+}
